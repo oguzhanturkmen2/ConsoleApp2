@@ -15,6 +15,7 @@ namespace ConsoleApp2
                 Console.WriteLine(a[i]);
 
             //Bu proje iyi
+            //Changes branch
 
         }
     }
