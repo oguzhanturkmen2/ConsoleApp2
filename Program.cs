@@ -14,6 +14,8 @@ namespace ConsoleApp2
             for (int i = 0; i < a.Length; i++)
                 Console.WriteLine(a[i]);
 
+            //Bu proje iyi
+
         }
     }
 }
